@@ -32,3 +32,19 @@ body {
     min-width: 100%;
     height: 32rem;
   }
+  .card1-container{
+    margin: 30px;
+    border: 1px;
+    padding: 10px;
+  }
+  .card1-container >h1{
+    text-align: center;
+  }
+  .bootcampterbaru-container{
+    margin: 30px;
+    border: 1px;
+    padding: 10px;
+  }
+  .bootcampterbaru-container > h1{
+    text-align: center;
+  }
